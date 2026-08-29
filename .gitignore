@@ -14,3 +14,4 @@ private.pem
 ext/omnom-ext.js
 ext/omnom-ext.js.map
 ext/src/manifest.json.license
+.vfox/
